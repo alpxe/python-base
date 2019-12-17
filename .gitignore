@@ -13,3 +13,4 @@ bin-debug/
 
 # Executables
 .DS_Store
+__pycache__
